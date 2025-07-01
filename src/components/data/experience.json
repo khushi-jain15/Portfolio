@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "Frontend Web Developer",
+      "organisation": "Assert InfoTech",
+      "startDate": "May 2023",
+      "endDate": "July 2023",
+      "location": "Remote",
+      "experiences": [
+        "Worked On Web Based Drawing application",
+        "Individual Project"
+      ],
+      "imageSrc": "company/App.png"
+    },
+    {
+      "id": 2,
+      "role": "Trainee",
+      "organisation": "AppSquad",
+      "startDate": "May 2023",
+      "endDate": "July, 2023",
+      "location": "Noida",
+      "experiences": [
+        "Worked on Hospital Management System",
+        "Team worked project Contribute as Frontend Delevoper"
+      ],
+      "imageSrc": "company/Asser.png"
+    }
+]
